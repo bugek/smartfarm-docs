@@ -17,6 +17,8 @@ Engineering should treat the following as the contract of record. Link to these 
 - [`gap/evidence-strategy.md`](gap/evidence-strategy.md) — image, video, document evidence rules
 - [`gap/ruleset-clarifications.md`](gap/ruleset-clarifications.md) — versioned clarifications applied when bumping ruleset / overlay JSON
 
+- [`gap/thai-gap-clause-3-hazardous-substances.md`](gap/thai-gap-clause-3-hazardous-substances.md) - Thai GAP clause 3 contract for hazardous substance records, evidence, and controls
+
 ### Architecture
 - [`architecture/repo-map.md`](architecture/repo-map.md) — repos and ownership
 - [`architecture/implementation-handoff.md`](architecture/implementation-handoff.md) — entities, capabilities, non-negotiables for engineering
