@@ -16,6 +16,7 @@ Engineering should treat the following as the contract of record. Link to these 
 - [`gap/phase-1-gap.md`](gap/phase-1-gap.md) — what GAP-first means for the platform
 - [`gap/evidence-strategy.md`](gap/evidence-strategy.md) — image, video, document evidence rules
 - [`gap/ruleset-clarifications.md`](gap/ruleset-clarifications.md) — versioned clarifications applied when bumping ruleset / overlay JSON
+- [`gap/thai-gap-clause-8-records-traceability.md`](gap/thai-gap-clause-8-records-traceability.md) — Thai GAP clause 8 contract for seasonal records, lot traceability, buyer logs, and follow-up actions
 
 ### Architecture
 - [`architecture/repo-map.md`](architecture/repo-map.md) — repos and ownership
