@@ -20,6 +20,7 @@ Engineering should treat the following as the contract of record. Link to these 
 - [`gap/thai-gap-clause-8-records-traceability.md`](gap/thai-gap-clause-8-records-traceability.md) — Thai GAP clause 8 contract for seasonal records, lot traceability, buyer logs, and follow-up actions
 
 - [`gap/thai-gap-clause-3-hazardous-substances.md`](gap/thai-gap-clause-3-hazardous-substances.md) - Thai GAP clause 3 contract for hazardous substance records, evidence, and controls
+- [`gap/fertilizer-application-phase-1-2.md`](gap/fertilizer-application-phase-1-2.md) - Phase 1.2 fertilizer application record requirement and product/API handoff
 
 ### Architecture
 - [`architecture/repo-map.md`](architecture/repo-map.md) — repos and ownership
