@@ -11,6 +11,7 @@ Engineering should treat the following as the contract of record. Link to these 
 - [`product/mvp-scope.md`](product/mvp-scope.md) — Phase 1 in/out of scope and acceptance signal
 - [`product/roles.md`](product/roles.md) — farmer, expert, compliance lead, admin
 - [`product/user-flows.md`](product/user-flows.md) — record entry, expert review, readiness reporting
+- [`product/gap-workflow-ux-acceptance.md`](product/gap-workflow-ux-acceptance.md) — UX/UI acceptance criteria for GAP workflows
 
 ### GAP
 - [`gap/phase-1-gap.md`](gap/phase-1-gap.md) — what GAP-first means for the platform
