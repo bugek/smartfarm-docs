@@ -17,6 +17,10 @@ This is the contract engineering must build to. The product and GAP docs are the
 - `RecordReview` (gap record × expert × state × comment × created_at)
 - `ReadinessSnapshot` (crop cycle × generated_at × frozen content × generator_user_id)
 
+## Required GAP record types (current docs baseline)
+
+- `fertilizer_application` - fertilizer and nutrient input application records for Phase 1.2; see `gap/fertilizer-application-phase-1-2.md`
+
 ## Roles and authorization
 
 See `product/roles.md`. Authorization is checked per organization context. A request always carries org context plus the acting user's role in that org.
